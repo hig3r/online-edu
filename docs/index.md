@@ -5,20 +5,20 @@
 以下では, 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について, [樋口](https://hig3.net) がまったく個人的にまとめてます. 無保証.
 
 ## 授業の種類
-* 対面 [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)にキャンパスと教室が書かれている
-* オンライン [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)に「オンライン」と書かれている
+* 対面 ([ポータル](https://portal.ryukoku.ac.jp) のMy時間割に教室が書かれている)
+* オンライン ([ポータル](https://portal.ryukoku.ac.jp)のMy時間割に「オンライン」と書かれている)
    * オンデマンド
    * ライブ
-* 対面とオンラインを織り交ぜた形態 [先端理工] [ハイブリッド授業](https://hig3r.hatenadiary.com/entry/2020/09/09/083000)
-   * ハイフレックス 対面とオンラインどちらでも参加可能 
-   * ブレンディッド 日や曜日によって 対面かオンラインか決まっている
+* 対面とオンラインを織り交ぜた形態には様々なもの. [先端理工] [ハイブリッド授業](https://hig3r.hatenadiary.com/entry/2020/09/09/083000)もその例. 典型例.
+   * 対面とオンラインどちらでも参加可能(ハイフレックス, 配慮「申請届」出してない人も)
+   * 日や曜日によって 対面かオンラインか決まっている(ブレンディッド, シラバスなどに日程)
 
 ## 登校
 
 ### 登校準備
 * 教室指定チェック
    * 対面 [ポータル](https;//portal.ryukoku.ac.jp)My時間割, [先端理工] ハイブリッド [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
-* 教室位置チェック [建物教室配置図](http://wireless.ryukoku.ac.jp/in/area.html) 建物をクリックすると教室配置図になります.
+* 教室位置チェック [建物配置図](https://www.ryukoku.ac.jp/about/campus_traffic/) [学内からのみアクセス可の教室配置図](http://wireless.ryukoku.ac.jp/in/area.html) 建物をクリックすると教室配置図になります.
 * 座席表チェック 座席指定のある授業では[manaba](https://manaba.ryukoku.ac.jp)の科目コースに座席表が載ります.
 * 予習チェック [manaba](https://manaba.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
 * 教科書チェック [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA) → [瀬田] [教科書注文](https://bit.ly/3jId1wb) → 宅配 or 受取([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)丸善)
