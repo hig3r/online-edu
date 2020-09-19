@@ -17,7 +17,7 @@
 
 ## 登校
 
-## 登校準備
+### 登校準備
 * 教室指定チェック
    * 対面 [ポータル](https;//portal.ryukoku.ac.jp)My時間割, [先端理工] ハイブリッド [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
 * 教室位置チェック [建物教室配置図](http://wireless.ryukoku.ac.jp/in/area.html) 建物をクリックすると教室配置図になります.
