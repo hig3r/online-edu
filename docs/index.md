@@ -1,12 +1,14 @@
 # 龍谷大学 2020年度後期の 対面授業/オンライン授業/ハイブリッド授業 の個人的ポータル
 
+
+
 大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/), [先端理工] [学修サポート](https://byod.st.ryukoku.ac.jp)
 
 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について.
 
 ## 授業の種類
-* 対面
-* オンライン
+* 対面 [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)にキャンパスと教室が書かれている
+* オンライン [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)に「オンライン」と書かれている
    * オンデマンド
    * ライブ
 * 対面とオンラインを織り交ぜた形態 [先端理工] [ハイブリッド授業](https://hig3r.hatenadiary.com/entry/2020/09/09/083000)
