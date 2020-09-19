@@ -34,8 +34,10 @@
 * 登校時に学生証タッチ. [瀬田]1号館ロビー.
 
 ### 対面授業
+* 普通教室は他の授業やっていなければ早めに入って待っていられる. 計算機実習室は授業にあわせて開錠されるのでドア近くが密になる危険あり. 近くで待たないで.
 * マスク(フェイスシールド任意)
-* ウェットティッシュで除菌
+* 使用後ウェットティッシュで除菌
+* 窓は断らずに開けていい
 
 ### 学内での自習
 * [瀬田] 設置PCが使える[計算機実習室](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
@@ -62,6 +64,7 @@
 * [ru-wifi](http://wireless.ryukoku.ac.jp/)
 
 ### 昼食・コンビニ
+* 昼は食堂が開いてる.
 * コンビニ/自作お弁当持参歓迎. [瀬田] 座れる場所たぶんあり.
 
 ### 荷物保管
@@ -74,6 +77,4 @@
 ### 教員学生間連絡
 * [龍大Gmail 転送設定](http://www602.math.ryukoku.ac.jp/JKiso/gmail-forward.html)
 * [Gmail アプリ](https://www.google.com/intl/ja/gmail/about/)
-* 
-
-
+* メールアドレスや連絡方法が[Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)に書いてあるかも. [manaba](https://manaba.ryukoku.ac.jp)の掲示板や個別指導コレクションや提出課題のコメントから. 専任教員はオフィスアワーあるかも.
