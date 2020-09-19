@@ -17,10 +17,11 @@
 
 ### 登校準備
 * 教室指定チェック
-   * 対面 [ポータル](https;//portal.ryukoku.ac.jp)My時間割, [先端理工] ハイブリッド [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
-* 教室位置チェック 
-   ＊ 建物配置図 [大宮](https://www.ryukoku.ac.jp/about/campus_traffic/omiya.html)  [深草](https://www.ryukoku.ac.jp/about/campus_traffic/fukakusa.html) [瀬田](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)
-   * 建物内教室配置図 (PDF, Google Drive全学認証) [大宮](https://drive.google.com/file/d/1jiug1pmNfvBUrqziQ5q6EXTXSRaxMcop/view?usp=sharing) [深草](https://drive.google.com/file/d/15Eca3_PaC16_RDG2Jtw_yesDZ0UVK9IU/view?usp=sharing) [瀬田](https://drive.google.com/file/d/1Bzy0R84WEbQkMTDCeWSuWkka7T97IoHB/view?usp=sharing)
+   * 対面 [ポータル](https;//portal.ryukoku.ac.jp)My時間割
+   * [先端理工] ハイブリッド [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
+* 教室位置チェック
+    * 建物配置図 [大宮](https://www.ryukoku.ac.jp/about/campus_traffic/omiya.html)  [深草](https://www.ryukoku.ac.jp/about/campus_traffic/fukakusa.html) [瀬田](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)
+    * 建物内教室配置図 (PDF, Google Drive全学認証) [大宮](https://drive.google.com/file/d/1jiug1pmNfvBUrqziQ5q6EXTXSRaxMcop/view?usp=sharing) [深草](https://drive.google.com/file/d/15Eca3_PaC16_RDG2Jtw_yesDZ0UVK9IU/view?usp=sharing) [瀬田](https://drive.google.com/file/d/1Bzy0R84WEbQkMTDCeWSuWkka7T97IoHB/view?usp=sharing)
 * 座席表チェック 座席指定のある授業では[manaba](https://manaba.ryukoku.ac.jp)の科目コースに座席表が載ります.
 * 予習チェック [manaba](https://manaba.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
 * 教科書チェック [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA) → [瀬田] [教科書注文](https://bit.ly/3jId1wb) → 宅配 or 受取([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)丸善)
@@ -36,7 +37,7 @@
 * 登校時に学生証タッチ. [瀬田]1号館ロビー.
 
 ### 対面授業
-* 普通教室は他の授業やっていなければ早めに入って待っていられる. 計算機実習室は授業にあわせて開錠されるのでドア近くが密になる危険あり. 近くで待たないで.
+* 普通教室は他の授業やっていなければ早めに入って待っていられる. 計算機実習室([瀬田] 配置図](https://www.media.ryukoku.ac.jp/seta/floor-guide) )は授業にあわせて開錠されるのでドア近くが密になる危険あり. 近くで待たないで.
 * マスク(フェイスシールド任意)
 * 使用後ウェットティッシュで除菌
 * 窓は断らずに開けていい
@@ -67,8 +68,8 @@
 
 ### 昼食・コンビニ
 * 昼は食堂営業中. [瀬田] [時間](https://twitter.com/hig3_/status/1307264420326842369)
-* コンビニ/自作お弁当持参歓迎. [瀬田] 座れる場所あり
-* お弁当の販売あり
+* コンビニ/自作お弁当持参歓迎. お弁当の販売あり [瀬田] 座れる場所あり
+* [龍大生協](https://www.ryukoku-coop.com/)
 
 ### 荷物保管
 * ロッカー [先端理工] 1号館に場所指定の掲示あり.
