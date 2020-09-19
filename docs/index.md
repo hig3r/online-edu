@@ -18,7 +18,9 @@
 ### 登校準備
 * 教室指定チェック
    * 対面 [ポータル](https;//portal.ryukoku.ac.jp)My時間割, [先端理工] ハイブリッド [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
-* 教室位置チェック [建物配置図](https://www.ryukoku.ac.jp/about/campus_traffic/) [学内からのみアクセス可の教室配置図](http://wireless.ryukoku.ac.jp/in/area.html) 建物をクリックすると教室配置図になります.
+* 教室位置チェック 
+   ＊ 建物配置図 [大宮](https://www.ryukoku.ac.jp/about/campus_traffic/omiya.html)  [深草](https://www.ryukoku.ac.jp/about/campus_traffic/fukakusa.html) [瀬田](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)
+   * 建物内教室配置図 (PDF, Google Drive全学認証) [大宮](https://drive.google.com/file/d/1jiug1pmNfvBUrqziQ5q6EXTXSRaxMcop/view?usp=sharing) [深草](https://drive.google.com/file/d/15Eca3_PaC16_RDG2Jtw_yesDZ0UVK9IU/view?usp=sharing) [瀬田](https://drive.google.com/file/d/1Bzy0R84WEbQkMTDCeWSuWkka7T97IoHB/view?usp=sharing)
 * 座席表チェック 座席指定のある授業では[manaba](https://manaba.ryukoku.ac.jp)の科目コースに座席表が載ります.
 * 予習チェック [manaba](https://manaba.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
 * 教科書チェック [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA) → [瀬田] [教科書注文](https://bit.ly/3jId1wb) → 宅配 or 受取([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)丸善)
