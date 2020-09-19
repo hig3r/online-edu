@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 龍谷大学オンライン授業/ハイブリッド授業の個人的ポータル
 
-You can use the [editor on GitHub](https://github.com/hig3r/online-edu/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/)から.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+主に先端理工, 瀬田キャンパスについて
 
-### Markdown
+### 登校準備
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
+### 登下校
 2. List
 
-**Bold** and _Italic_ and `Code` text
+### 対面授業
+2. List
 
-[Link](url) and ![Image](src)
-```
+### オンライン授業
+2. List
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 自習
+#### 充電
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hig3r/online-edu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 昼食・コンビニ
