@@ -16,6 +16,7 @@
 ## 登校
 
 ### 登校準備
+* 臨時休講・教室変更・補講チェック [ポータル](https;//portal.ryukoku.ac.jp)My休講・教室変更・補講 (設定すればメール通知を受け取れる)
 * 教室指定チェック
    * 対面 [ポータル](https;//portal.ryukoku.ac.jp)My時間割
    * [先端理工] ハイブリッド [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
@@ -26,8 +27,8 @@
 * 予習チェック [manaba](https://manaba.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
 * 教科書チェック [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA) → [瀬田] [教科書注文](https://bit.ly/3jId1wb) → 宅配 or 受取([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)丸善)
 * 持ち物チェック
-  * 先端理工1年は, 指定された対面授業(のみ)では[BYOD PC](https://byod.st.ryukoku.ac.jp/byod)を必ず持参, それ以外の日も持参すると便利.
-  * 学内でオンライン授業に参加する場合, 自分のノートPCとイヤフォン, マイクを持参するほうが便利.
+  * [先端理工] 1年生は, 指定された対面授業(のみ)では[BYOD PC](https://byod.st.ryukoku.ac.jp/byod)を必ず持参, それ以外の日も持参すると便利.
+  * 学内でオンライン授業に参加する場合, 自分のノートPCとイヤフォン, マイクを持参すると便利.
   * 学生証, マスク, 充電.
 * [COCOAアプリ](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html)インストール
 
@@ -39,21 +40,24 @@
 ### 対面授業
 * 普通教室は他の授業やっていなければ早めに入って待っていられる. 計算機実習室([瀬田] [配置図](https://www.media.ryukoku.ac.jp/seta/floor-guide) )は授業にあわせて開錠されるのでドア近くが密になる危険あり. 近くで待たないで.
 * マスク(フェイスシールド任意)
+* 教員・学生が何分遅刻したらどうなる, という一律ルールはない
+    * 教員が現れないとき, [ポータル](https;//portal.ryukoku.ac.jp)My休講・教室変更を再確認. 教員本人や教務課に問い合わせるなど. 20分くらいは待つのが普通か?
+    * 学生が交通遅延や急病で遅刻するとき, 証明書をもらっておいて教員に届けると考慮されることもあるが, 一律ルールはない
+* 窓は断らずに開けていい, 空調は断らずに調節していい.
 * 使用後ウェットティッシュで除菌
-* 窓は断らずに開けていい, 空調は断らずに調節していい
 
 ### 学内での自習
 * 開放される普通教室 [瀬田] 月-金 09:20-18:30 2号館212・216・219教室, 3号館202・205・212教室, 4号館215・216教室,5号館201教室, 7号館講義室2, 8号館B103教室 (2020-09-23水時点)
    * 数が十分かどうかはともかく, 充電用コンセントが配置されるそう
 * 設置PCが使える計算機実習室 [瀬田] [案内](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
-   * プリンタ利用可能
+   * プリンタ利用可能. 印刷操作後に学生証タッチ.
    * イヤフォン・マイク持参. [3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
    * Zoom, Teams はアプリでなくブラウザで.
 * [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食事可)
-* スチューデントコモンズ [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) (食事可?)
+* [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) (食事可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
 
-### 学内でのオンライン授業
+### 学内でのオンライン授業参加
 * 開放される普通教室(Wi-Fiあり), 計算機実習室(セルフラーニング室=設置PCあり), その他自習できる場所どこでも. イヤフォン必須.
 * [瀬田]ライブで発話のある英語の授業については, まわりを気にせずイヤフォン・マイクで発話できる専用教室が割り当てられる
 * 専用教室でなくても, イヤフォン・マイクを使えば静かに発話可能(?)
