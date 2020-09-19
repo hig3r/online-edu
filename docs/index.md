@@ -5,6 +5,13 @@
 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について.
 
 ## 授業の種類
+* 対面
+* オンライン
+   * オンデマンド
+   * ライブ
+* 対面とオンラインを織り交ぜた形態 [先端理工] [ハイブリッド授業](https://hig3r.hatenadiary.com/entry/2020/09/09/083000)
+   * ハイフレックス 対面とオンラインどちらでも参加可能 
+   * ブレンディッド 日や曜日によって 対面かオンラインか決まっている
 
 ## 登校
 
