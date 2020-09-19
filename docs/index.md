@@ -1,6 +1,6 @@
 # 龍谷大学 2020年度後期の 対面授業/オンライン授業/ハイブリッド授業 の個人的ポータル
 
-大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/)から.
+大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/), [先端理工] [学修サポート](https://byod.st.ryukoku.ac.jp)
 
 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について.
 
@@ -30,7 +30,7 @@
 
 ### 登下校
 * [瀬田] [帝産バス](https://www.teisan-qr.com/) [中書島直通バス](https://www.media.ryukoku.ac.jp/seta/time-table/keihan.html) [大津駅直通バス](https://www.ryukoku.ac.jp/about/campus_traffic/traffic/bus_otsu_timetable.html)
-* [瀬田]バス回数券は瀬田駅または生協コンビニ([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html))
+  * [瀬田]バス回数券は瀬田駅または生協コンビニ([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html))
 * 登校時に学生証タッチ. [瀬田]1号館ロビー.
 
 ### 対面授業
@@ -74,7 +74,12 @@
 * [manaba](https://manaba.ryukoku.ac.jp) [respon](https://attend.ryukoku.ac.jp/t/nhome) [龍大Gmail](https://mail.google.com/a/mail.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
 * [Google Drive / Meet 事前接続テスト](https://hig3r.hatenadiary.com/entry/2020/09/07/190000)
 
-### 教員学生間連絡
+## 教員学生間連絡
 * [龍大Gmail 転送設定](http://www602.math.ryukoku.ac.jp/JKiso/gmail-forward.html)
 * [Gmail アプリ](https://www.google.com/intl/ja/gmail/about/)
 * メールアドレスや連絡方法が[Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)に書いてあるかも. [manaba](https://manaba.ryukoku.ac.jp)の掲示板や個別指導コレクションや提出課題のコメントから. 専任教員はオフィスアワーあるかも.
+
+## 質問できるところ
+* [学部教務課](https://www.ryukoku.ac.jp/reference/index2020.html)
+* [相談室](https://www.ryukoku.ac.jp/reference/index2020.html)
+* [先端理工] [学生間の情報共有チャネル](https://teams.microsoft.com/l/channel/19%3ad1ea28c6524141c2978260f718897db4%40thread.tacv2/%25E2%2598%2586%2520%25E5%25AD%25A6%25E7%2594%259F%25E9%2596%2593%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E5%2585%25B1%25E6%259C%2589?groupId=7c7d2b9f-b5be-4c3b-ac32-780426822d82&tenantId=23b65fdf-a4e3-4a19-b03d-12b1d57ad76e) 
