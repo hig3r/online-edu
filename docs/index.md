@@ -2,6 +2,8 @@
 
 以下では, 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について, [樋口](https://hig3.net) がまったく個人的にまとめてます. 無保証.
 
+最終更新 2020-09-20 Sun
+
 ## 授業の種類
 * 対面 ([ポータル](https://portal.ryukoku.ac.jp) のMy時間割に教室が書かれている)
 * オンライン ([ポータル](https://portal.ryukoku.ac.jp)のMy時間割に「オンライン」と書かれている)
@@ -50,17 +52,20 @@
      * 数が十分かどうかはともかく, 充電用コンセントが配置されるそう
    * [深草] 月-金 09:00-18:15, ２号館201・202・302・401教室、３号館201・202・301教室
    * [大宮] 月-金 09:00-18:15, 清和館2階談話室
-* 設置PCが使える計算機実習室 [瀬田] [案内](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
+* 設置PCが使える計算機実習室 
+   * [瀬田] [案内](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
+   * [深草] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 5号館
+   * [大宮] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 南黌, 清風館
    * プリンタ利用可能. 印刷操作後に学生証タッチ.
-   * イヤフォン・マイク持参. [3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
+   * イヤフォン・マイク持参. 2個別々のケーブルでつなぐ[3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
    * Zoom, Teams はアプリでなくブラウザで.
 * [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食事可)
-* [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) (食事可?)
+* [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(食事可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
 
 ### 学内でのオンライン授業参加
-* 開放される普通教室(Wi-Fiあり), 計算機実習室(セルフラーニング室=設置PCあり), その他自習できる場所どこでも. イヤフォン必須.
-* [瀬田]ライブで発話のある英語の授業については, まわりを気にせずイヤフォン・マイクで発話できる専用教室が割り当てられる
+* 開放される普通教室(Wi-Fiあり), 計算機実習室(セルフラーニング室)(Wi-Fi, 設置PCあり), その他自習できる場所どこでも. イヤフォン必須.
+* [瀬田]ライブで発話のある英語の授業で, 前後に対面授業があるものについては, まわりを気にせずイヤフォン・マイクで発話できる, その授業の専用教室が割り当てられるそう.
 * 専用教室でなくても, イヤフォン・マイクを使えば静かに発話可能(?)
 
 ### 充電用コンセント
