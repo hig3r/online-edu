@@ -25,7 +25,9 @@
     * 建物内教室配置図 (PDF, Google Drive全学認証) [大宮](https://drive.google.com/file/d/1jiug1pmNfvBUrqziQ5q6EXTXSRaxMcop/view?usp=sharing) [深草](https://drive.google.com/file/d/15Eca3_PaC16_RDG2Jtw_yesDZ0UVK9IU/view?usp=sharing) [瀬田](https://drive.google.com/file/d/1Bzy0R84WEbQkMTDCeWSuWkka7T97IoHB/view?usp=sharing)
 * 座席表チェック 座席指定のある授業では[manaba](https://manaba.ryukoku.ac.jp)の科目コースに座席表が載ります.
 * 予習チェック [manaba](https://manaba.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
-* 教科書チェック [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA) → [瀬田] [教科書注文](https://bit.ly/3jId1wb) → 宅配 or 受取([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)丸善)
+* 教科書チェック [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA) 
+  * → [瀬田] [教科書注文](https://bit.ly/3jId1wb) → 宅配 or 受取([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)丸善)
+  * → [深草] [教科書注文](https://www.ryukoku-coop.com/new-comer/study/) (生協)
 * 持ち物チェック
   * [先端理工] 1年生は, 指定された対面授業(のみ)では[BYOD PC](https://byod.st.ryukoku.ac.jp/byod)を必ず持参, それ以外の日も持参すると便利.
   * 学内でオンライン授業に参加する場合, 自分のノートPCとイヤフォン, マイクを持参すると便利.
@@ -58,7 +60,7 @@
    * [大宮] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 南黌, 清風館
    * プリンタ利用可能. 印刷操作後に学生証タッチ.
    * イヤフォン・マイク持参. 2個別々のケーブルでつなぐ[3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
-   * Zoom, Teams はアプリでなくブラウザで.
+   * Zoom, Teams はアプリでなくWebブラウザで.
 * [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食事可)
 * [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(食事可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
