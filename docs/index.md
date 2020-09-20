@@ -1,5 +1,3 @@
-# 龍谷大学 2020年度後期の 対面授業/オンライン授業/ハイブリッド授業 の個人的ポータル
-
 大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/), [先端理工] [学修サポート](https://byod.st.ryukoku.ac.jp)
 
 以下では, 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について, [樋口](https://hig3.net) がまったく個人的にまとめてます. 無保証.
