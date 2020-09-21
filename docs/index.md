@@ -49,20 +49,20 @@
 * 使用後ウェットティッシュで除菌
 
 ### 学内での自習
-* 開放される普通教室 
+* 開放される普通教室 以下は終日授業のない空き教室. 他の講時ごとの空き教室(一覧はない)も指示がなければ自主的に使ってよい. お弁当可,
    * [瀬田] 月-金 09:20-18:30, 2号館212・216・219教室, 3号館202・205・212教室, 4号館215・216教室,5号館201教室, 7号館講義室2, 8号館B103教室 (2020-09-23水時点)
      * 数が十分かどうかはともかく, 充電用コンセントが配置されるそう
    * [深草] 月-金 09:00-18:15, ２号館201・202・302・401教室、３号館201・202・301教室
    * [大宮] 月-金 09:00-18:15, 清和館2階談話室
-* 設置PCが使える計算機実習室 
+* 設置PCが使える計算機実習室(利用方法 [情報リテラシー講習会テキスト](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf)
    * [瀬田] [案内](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
    * [深草] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 5号館
    * [大宮] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 南黌, 清風館
    * プリンタ利用可能. 印刷操作後に学生証タッチ.
    * イヤフォン・マイク持参. 2個別々のケーブルでつなぐ[3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
    * Zoom, Teams はアプリでなくWebブラウザで.
-* [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食事可)
-* [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(食事可?)
+* [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食堂利用停止中, お弁当可)
+* [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(お弁当可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
 
 ### 学内でのオンライン授業参加
@@ -77,7 +77,9 @@
 * [瀬田]1号館各階スポット
 
 ### Wi-Fi
-* [ru-wifi](http://wireless.ryukoku.ac.jp/)
+* [ru-wifi](http://wireless.ryukoku.ac.jp/) ユーザ名学籍番号 b012345, 全学認証パスワード
+* [eduroam](https://wireless.ryukoku.ac.jp/) ユーザ名 b012345@ryukoku.ac.jp (`mail' はない), 全学認証パスワード
+   * 同じ電波を使ってるので混み方に差はない. eduroam はLINEが使える. 図書館DBや一部の学内限定ページが使えない.
 
 ### 昼食・コンビニ
 * 昼は食堂営業中. [瀬田] [時間](https://twitter.com/hig3_/status/1307264420326842369)
