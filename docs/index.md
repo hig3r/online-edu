@@ -14,7 +14,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * 対面 ([ポータル](https://portal.ryukoku.ac.jp) のMy時間割に教室が書かれている)
 * オンライン ([ポータル](https://portal.ryukoku.ac.jp)のMy時間割に「オンライン」と書かれている)
    * オンデマンド
-   * ライブ
+   * ライブ(特別な理由があるもの以外, 後からオンデマンド配信される)
 * 対面とオンラインを織り交ぜた形態には様々なもの. [先端理工] [ハイブリッド授業](https://hig3r.hatenadiary.com/entry/2020/09/09/083000)もその例. 典型例.
    * 対面とオンラインどちらでも参加可能(ハイフレックス, 配慮「申請届」出してない人も)
    * 日や曜日によって 対面かオンラインか決まっている(ブレンディッド, シラバスなどに日程)
@@ -100,7 +100,6 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * [瀬田] 2,3号館に, 無料コインロッカー
 
 [^locker]: ポータル「2020年度入学生のロッカー割当てについて」(公開期間 : 2020.09.10 10:15  2021.03.31 23:59, 発信元 : 先端理工学部教務課)
-
 
 ## 学外・学内でのオンライン授業
 * [manaba](https://manaba.ryukoku.ac.jp) [respon](https://attend.ryukoku.ac.jp/t/nhome) [龍大Gmail](https://mail.google.com/a/mail.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
