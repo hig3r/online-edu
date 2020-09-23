@@ -2,7 +2,7 @@
 date: 2020-09-22 00:00:00
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
-大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/), [先端理工] [学修サポート](https://byod.st.ryukoku.ac.jp)
+大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/), [先端理工] [学修サポート](https://byod.st.ryukoku.ac.jp), ポータル2020年度第2学期学内でオンライン授業を受講する際のＦＡＱ (発信元 : 先端理工学部教務課,公開期間 : 2020.09.23 09:20  2021.03.31 23:59)
 
 以下では, 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について, [樋口](https://hig3.net) がまったく個人的にまとめてます. 無保証.
 
@@ -79,7 +79,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * [瀬田]開放される普通教室
 * スチューデントコモンズ
 * 図書館閲覧室
-* [瀬田]1号館各階スポット
+* [瀬田]1号館各階, 7号館1階B1階スポット
 
 ### Wi-Fi
 * [ru-wifi](http://wireless.ryukoku.ac.jp/) ID 学籍番号 b012345, 全学認証パスワード
