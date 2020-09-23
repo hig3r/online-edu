@@ -108,6 +108,10 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * [龍大Gmail 転送設定](http://www602.math.ryukoku.ac.jp/JKiso/gmail-forward.html)
 * [Gmail アプリ](https://www.google.com/intl/ja/gmail/about/)
 * メールアドレスや連絡方法が[Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)に書いてあるかも. [manaba](https://manaba.ryukoku.ac.jp)の掲示板や個別指導コレクションや提出課題のコメントから. 専任教員はオフィスアワーあるかも.
+* [先端理工] オフィスアワー[^officehour]
+
+[^officehour]: ポータル「授業担当者（教員）への質問・相談について」(公開期間 : 2020.09.23 09:00  2021.03.31 23:59 発信元 : 先端理工学部教務課)
+
 
 ## 相談できるところ
 * [学部教務課](https://www.ryukoku.ac.jp/reference/index2020.html)
