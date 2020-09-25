@@ -1,5 +1,5 @@
 ---
-date: 2020-09-22 00:00:00
+date: 2020-09-25 00:00:00
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
 大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/), [先端理工] [学修サポート](https://byod.st.ryukoku.ac.jp), FAQ[^faq] 
@@ -64,9 +64,10 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
    * [瀬田] [案内](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
    * [深草] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 5号館
    * [大宮] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 南黌, 清風館
-   * プリンタ利用可能. 印刷操作後に学生証タッチ.
+   * [Windows へのサインイン(p.13)](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf#page=19): ユーザー名 学籍番号 y20????,  パスワード 全学認証パスワード
+   * [プリンタへの印刷(p.21)](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf##page=27) Windowsで「どこでもプリント」に印刷, 好きなプリンタに接続されたカードリーダーに学生証タッチ.
    * イヤフォン・マイク持参. 2個別々のケーブルでつなぐ[3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
-   * Zoom, Teams はアプリでなくWebブラウザで.
+   * Zoom, Teams はアプリでなくChrome Webブラウザで.
 * [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食堂利用停止中, お弁当可)
 * [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(お弁当可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
