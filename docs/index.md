@@ -8,8 +8,6 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 
 以下では, 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について, [樋口](https://hig3.net) がまったく個人的にまとめてます. 無保証.
 
-最終更新 2020-09-23 Wed
-
 ## 授業の種類
 * 対面 ([ポータル](https://portal.ryukoku.ac.jp) のMy時間割に教室が書かれている)
 * オンライン ([ポータル](https://portal.ryukoku.ac.jp)のMy時間割に「オンライン」と書かれている)
