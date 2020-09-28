@@ -67,7 +67,8 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
    * [プリンタへの印刷(p.21)](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf##page=27) Windowsで「どこでもプリント」に印刷, 好きなプリンタに接続されたカードリーダーに学生証タッチ.
    * イヤフォン・マイク持参. 2個別々のケーブルでつなぐ[3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
    * Zoom, Teams はアプリでなくChrome Webブラウザで.
-   * 持参したノートPCから直接印刷するには[プリントジョブ投入Webアプリ(https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/). 好きな学内プリンタに学生証タッチで出力できる(AirPrintではない).
+   * 自宅や学内持参のPCから直接印刷するには[プリントジョブ投入Webアプリ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/). 
+      * 後で好きな学内プリンタに学生証タッチで出力できる(AirPrintではない).
 * [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食堂利用停止中, お弁当可)
 * [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(お弁当可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
