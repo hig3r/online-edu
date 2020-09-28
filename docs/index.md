@@ -1,5 +1,5 @@
 ---
-date: 2020-09-25 00:00:00 + 0900
+date: 2020-09-29 00:00:00 + 0900
 author: "Saburo Higuchi hig3r https://hig3.net"
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
@@ -53,7 +53,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * 照明, 空調は断らずに調節していい. 窓は断らずに開けてよい(自習室も).
 * 使用後ウェットティッシュで除菌
 
-### 学内での自習
+### 学内での自習場所
 * 開放される普通教室 以下は終日授業のない空き教室. 他の講時ごとの空き教室(一覧はない)も指示がなければ自主的に使ってよい. お弁当可,
    * [瀬田] 月-金 09:20-18:30, 2号館212・216・219教室, 3号館202・205・212教室, 4号館215・216教室,5号館201教室, 7号館講義室2, 8号館B103教室 (2020-09-23水時点)
      * 数が十分かどうかはともかく, 充電用コンセント配置
@@ -67,6 +67,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
    * [プリンタへの印刷(p.21)](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf##page=27) Windowsで「どこでもプリント」に印刷, 好きなプリンタに接続されたカードリーダーに学生証タッチ.
    * イヤフォン・マイク持参. 2個別々のケーブルでつなぐ[3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
    * Zoom, Teams はアプリでなくChrome Webブラウザで.
+   * 持参したノートPCから直接印刷するには[プリントジョブ投入Webアプリ(https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/). 好きな学内プリンタに学生証タッチで出力できる(AirPrintではない).
 * [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食堂利用停止中, お弁当可)
 * [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(お弁当可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
@@ -74,8 +75,8 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ### 学内でのオンライン授業参加
 * 開放される普通教室(Wi-Fiあり), 計算機実習室(セルフラーニング室)(Wi-Fi, 設置PCあり), その他自習できる場所どこでも参加可能. イヤフォン必須.
 * 計算機実習室の収容人数は十分でない可能性があるので, 個人のノートPCを持ってくる方が安心.
-* [瀬田]ライブで発話のある英語の授業で, 前後に対面授業があるものについては, まわりを気にせずイヤフォン・マイクで発話できる, その授業の専用教室が割り当てられるそう.
-* 専用教室でなくても, イヤフォン・マイクを使えば静かに発話可能(?)
+* [瀬田]ライブで発話のある英語の授業で, 前後に対面授業があるものについては, まわりを気にせず大声でイヤフォン・マイクで発話できる, その授業の専用教室が割り当てられるそう.
+* 専用教室でなくても, イヤフォン・マイクを使えば静かに発話可能
 
 ### 充電用コンセント
 * [瀬田]開放される普通教室
