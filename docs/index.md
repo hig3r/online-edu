@@ -1,5 +1,5 @@
 ---
-date: 2020-09-30 00:00:00
+date: 2020-10-01 00:00:00
 author: "Saburo Higuchi hig3r https://hig3.net"
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
@@ -107,6 +107,8 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ## 学外・学内でのオンライン授業
 * [manaba](https://manaba.ryukoku.ac.jp) [respon](https://attend.ryukoku.ac.jp/t/nhome) [龍大Gmail](https://mail.google.com/a/mail.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
 * [Google Drive / Meet 事前接続テスト](https://hig3r.hatenadiary.com/entry/2020/09/07/190000)
+* [コンビニでの無料印刷](https://www.ryukoku.ac.jp/ma556_5en/printsv.html)
+* 状況が変わってノートPC, モバイルWi-Fiの有料貸出を利用したくなった人は各学部教務課に相談
 
 ## 教員学生間連絡
 * [龍大Gmail 転送設定](http://www602.math.ryukoku.ac.jp/JKiso/gmail-forward.html)
