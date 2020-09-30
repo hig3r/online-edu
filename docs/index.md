@@ -3,41 +3,26 @@ date: 2020-10-01 00:00:00
 author: "Saburo Higuchi hig3r https://hig3.net"
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
-大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/), [先端理工] [学修サポート](https://byod.st.ryukoku.ac.jp), FAQ[^faq] 
+大学の公式情報は[公式ページ](https://www.ryukoku.ac.jp), [ポータル](https://portal.ryukoku.ac.jp), [オンライン授業まとめ](https://sites.google.com/mail.ryukoku.ac.jp/onc-matome/), [manaba](https://manaba.ryukoku.ac.jp), [先端理工] [学修サポート](https://byod.st.ryukoku.ac.jp), FAQ[^faq] 
 
 [^faq]: ポータル「2020年度第2学期学内でオンライン授業を受講する際のＦＡＱ」 (発信元 : 先端理工学部教務課, 公開期間 : 2020.09.23 09:20  2021.03.31 23:59)
 
 以下では, 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について, [樋口](https://hig3.net) がまったく個人的にまとめてます. 無保証.
 
-## 授業の種類
-* 対面 ([ポータル](https://portal.ryukoku.ac.jp) のMy時間割に教室が書かれている)
-* オンライン ([ポータル](https://portal.ryukoku.ac.jp)のMy時間割に「オンライン」と書かれている)
-   * オンデマンド
-   * ライブ(特別な理由があるもの以外, 後からオンデマンド配信される)
-* 対面とオンラインを織り交ぜた形態には様々なもの. [先端理工] [ハイブリッド授業](https://hig3r.hatenadiary.com/entry/2020/09/09/083000)もその例. 典型例.
-   * 対面とオンラインどちらでも参加可能(ハイフレックス, 配慮「申請届」出してない人も)
-   * 日や曜日によって 対面かオンラインか決まっている(ブレンディッド, シラバスなどに日程)
+## 履修登録と時間割
+[履修登録と時間割](Registration.md)
 
 ## 登校
 
 ### 登校準備
-* 臨時休講・教室変更・補講チェック [ポータル](https;//portal.ryukoku.ac.jp)My休講・教室変更・補講 (設定すればメール通知を受け取れる)
-* 教室指定チェック
-   * 対面 [ポータル](https;//portal.ryukoku.ac.jp)My時間割
-   * [先端理工] ハイブリッド [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
+[投稿準備](Preparation.md)
+
 * 教室位置チェック
     * 建物配置図 [大宮](https://www.ryukoku.ac.jp/about/campus_traffic/omiya.html)  [深草](https://www.ryukoku.ac.jp/about/campus_traffic/fukakusa.html) [瀬田](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)
     * 建物内教室配置図 (PDF, Google Drive全学認証) [大宮](https://drive.google.com/file/d/1jiug1pmNfvBUrqziQ5q6EXTXSRaxMcop/view?usp=sharing) [深草](https://drive.google.com/file/d/15Eca3_PaC16_RDG2Jtw_yesDZ0UVK9IU/view?usp=sharing) [瀬田](https://drive.google.com/file/d/1Bzy0R84WEbQkMTDCeWSuWkka7T97IoHB/view?usp=sharing)
-* 座席表チェック 座席指定のある授業では[manaba](https://manaba.ryukoku.ac.jp)の科目コースに座席表が載ります.
-* 予習チェック [manaba](https://manaba.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
 * 教科書チェック [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA) 
   * → [瀬田] [教科書注文](https://bit.ly/3jId1wb) → 宅配 or 受取([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)丸善)
   * → [深草] [教科書注文](https://www.ryukoku-coop.com/new-comer/study/) (生協)
-* 持ち物チェック
-  * [先端理工] 1年生は, 指定された対面授業(のみ)では[BYOD PC](https://byod.st.ryukoku.ac.jp/byod)を必ず持参, それ以外の日も持参すると便利.
-  * 学内でオンライン授業に参加する場合, 自分のノートPCとイヤフォン, マイクを持参すると便利.
-  * 学生証, マスク, 充電.
-* [COCOAアプリ](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html)インストール
 
 ### 登下校
 * [瀬田] [帝産バス](https://www.teisan-qr.com/) [中書島直通バス](https://www.media.ryukoku.ac.jp/seta/time-table/keihan.html) [大津駅直通バス](https://www.ryukoku.ac.jp/about/campus_traffic/traffic/bus_otsu_timetable.html)
