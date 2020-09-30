@@ -59,23 +59,14 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
      * 数が十分かどうかはともかく, 充電用コンセント配置
    * [深草] 月-金 09:00-18:15, ２号館201・202・302・401教室、３号館201・202・301教室
    * [大宮] 月-金 09:00-18:15, 清和館2階談話室
-* 設置PCが使える計算機実習室(利用方法 [情報リテラシー講習会テキスト](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf)
-   * [瀬田] [案内](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
-   * [深草] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 5号館
-   * [大宮] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 南黌, 清風館
-   * [Windows へのサインイン(p.13)](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf#page=19): ユーザー名 学籍番号 y20????,  パスワード 全学認証パスワード
-   * [プリンタへの印刷(p.21)](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf##page=27) Windowsで「どこでもプリント」に印刷, 好きなプリンタに接続されたカードリーダーに学生証タッチ.
-   * イヤフォン・マイク持参. 2個別々のケーブルでつなぐ[3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
-   * Zoom, Teams はアプリでなくChrome Webブラウザで.
-   * 自宅や学内持参のPCから直接印刷するには[プリントジョブ投入Webアプリ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/). 
-      * 対応する[学内のセルフラーニング室やラーニングコモンズのプリンタ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/MainPage.aspx)に後で学生証タッチすれば出力できる(AirPrintではない).
+* 設置PCが使える[計算機実習室](#comproom) (利用方法 [情報リテラシー講習会テキスト](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf)
 * [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食堂利用停止中, お弁当可)
 * [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(お弁当可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
 
 ### 学内でのオンライン授業参加
 * 開放される普通教室(Wi-Fiあり), 計算機実習室(セルフラーニング室)(Wi-Fi, 設置PCあり), その他自習できる場所どこでも参加可能. イヤフォン必須.
-* 計算機実習室の収容人数は十分でない可能性があるので, 個人のノートPCを持ってくる方が安心.
+* [計算機実習室](#comproom)の収容人数は十分でない可能性があるので, 個人のノートPCを持ってくる方が安心.
 * [瀬田]ライブで発話のある英語の授業で, 前後に対面授業があるものについては, まわりを気にせず大声でイヤフォン・マイクで発話できる, その授業の専用教室が割り当てられるそう.
 * 専用教室でなくても, イヤフォン・マイクを使えば静かに発話可能
 
@@ -103,6 +94,20 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * [瀬田] 2,3号館に, 無料コインロッカー
 
 [^locker]: ポータル「2020年度入学生のロッカー割当てについて」(公開期間 : 2020.09.10 10:15  2021.03.31 23:59, 発信元 : 先端理工学部教務課)
+
+## 自習利用できる情報実習室 計算機実習室 (#comproom)
+オンライン授業にも参加できます.
+* 設置PCが使える全学の計算機実習室(利用方法 [情報リテラシー講習会テキスト](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf)
+   * [瀬田] [案内](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
+   * [深草] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 5号館
+   * [大宮] [案内](https://www.media.ryukoku.ac.jp/kyoto) [自習開放日程](https://www.media.ryukoku.ac.jp/kyoto) 南黌, 清風館
+   * [Windows へのサインイン(p.13)](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf#page=19): ユーザー名 学籍番号 y20????,  パスワード 全学認証パスワード
+   * [プリンタへの印刷(p.21)](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf##page=27) Windowsで「どこでもプリント」に印刷, 好きなプリンタに接続されたカードリーダーに学生証タッチ.
+   * イヤフォン・マイク持参. 2個別々のケーブルでつなぐ[3.5mm 3極x2タイプ](https://hig3r.hatenadiary.com/entry/2020/06/23/093000).
+   * Zoom, Teams はアプリでなくChrome Webブラウザで.
+   * 自宅や学内持参のPCから直接印刷するには[プリントジョブ投入Webアプリ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/). 
+      * 対応する[学内のセルフラーニング室やラーニングコモンズのプリンタ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/MainPage.aspx)に後で学生証タッチすれば出力できる(AirPrintではない).
+＊ [先端理工]専用情報実習室(1号館6階1-612,613)
 
 ## 学外・学内でのオンライン授業
 * [manaba](https://manaba.ryukoku.ac.jp) [respon](https://attend.ryukoku.ac.jp/t/nhome) [龍大Gmail](https://mail.google.com/a/mail.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
