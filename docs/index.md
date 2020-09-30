@@ -75,6 +75,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * スチューデントコモンズ
 * 図書館閲覧室
 * [瀬田]1号館各階, 7号館1階B1階スポット
+* [先端理工]専用情報実習室(1号館6階1-612,613)平日10:00-19:30
 
 ### Wi-Fi
 * [ru-wifi](http://wireless.ryukoku.ac.jp/) ID 学籍番号 b012345, 全学認証パスワード
@@ -95,7 +96,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 
 [^locker]: ポータル「2020年度入学生のロッカー割当てについて」(公開期間 : 2020.09.10 10:15  2021.03.31 23:59, 発信元 : 先端理工学部教務課)
 
-## 自習利用できる情報実習室 計算機実習室 (#comproom)
+## [自習利用できる情報実習室・計算機実習室](#comproom)
 オンライン授業にも参加できます.
 * 設置PCが使える全学の計算機実習室(利用方法 [情報リテラシー講習会テキスト](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf)
    * [瀬田] [案内](https://www.media.ryukoku.ac.jp/seta) [自習開放日程](https://www.media.ryukoku.ac.jp/seta/cgi-bin/yotei/yotei.cgi) 主に3号館地下
@@ -107,7 +108,9 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
    * Zoom, Teams はアプリでなくChrome Webブラウザで.
    * 自宅や学内持参のPCから直接印刷するには[プリントジョブ投入Webアプリ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/). 
       * 対応する[学内のセルフラーニング室やラーニングコモンズのプリンタ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/MainPage.aspx)に後で学生証タッチすれば出力できる(AirPrintではない).
-＊ [先端理工]専用情報実習室(1号館6階1-612,613)
+* [先端理工]専用情報実習室(1号館6階1-612,613)平日10:00-19:30 [^ast612]
+
+[^ast612]: 1号館新612実習室と新サービスの案内 (公開期間 : 2020.09.30 15:11  2021.03.31 23:59, 発信元 : 先端理工学部教務課)
 
 ## 学外・学内でのオンライン授業
 * [manaba](https://manaba.ryukoku.ac.jp) [respon](https://attend.ryukoku.ac.jp/t/nhome) [龍大Gmail](https://mail.google.com/a/mail.ryukoku.ac.jp) [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA)
