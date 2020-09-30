@@ -30,7 +30,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * 登校時に学生証タッチ. [瀬田]1号館ロビー.
 
 ### 対面授業
-* 普通教室は他の授業やっていなければ早めに入って待っていられる. 計算機実習室([瀬田] [配置図](https://www.media.ryukoku.ac.jp/seta/floor-guide) )は授業にあわせて開錠されるのでドア近くが密になる危険あり. 近くで待たないで.
+* 普通教室は他の授業やっていなければ早めに入って待っていられる. [計算機実習室](#comproom) ([瀬田] [配置図](https://www.media.ryukoku.ac.jp/seta/floor-guide) )は授業にあわせて開錠されるのでドア近くが密になる危険あり. 近くで待たないで.
 * マスク(フェイスシールド任意)
 * 教員・学生が何分遅刻したらどうなる, という一律ルールはない
     * 教員が現れないとき, [ポータル](https;//portal.ryukoku.ac.jp)My休講・教室変更を再確認. 教員本人や教務課に問い合わせるなど. 20分くらいは待つのが普通か?
@@ -44,13 +44,13 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
      * 数が十分かどうかはともかく, 充電用コンセント配置
    * [深草] 月-金 09:00-18:15, ２号館201・202・302・401教室、３号館201・202・301教室
    * [大宮] 月-金 09:00-18:15, 清和館2階談話室
-* 設置PCが使える[計算機実習室](#comproom) (利用方法 [情報リテラシー講習会テキスト](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf)
+* 設置PCが使える[計算機実習室](#comproom) 利用方法:[情報リテラシー講習会テキスト](https://www.media.ryukoku.ac.jp/local/teacher/literacy_program_2020.pdf)
 * [瀬田] [青雲館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)食堂2階(食堂利用停止中, お弁当可)
 * [スチューデントコモンズ](https://www.ryukoku.ac.jp/learningcommons) 通常と異なりグループワークでなく個人の自習専用 [瀬田] [智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)B1(生協コンビニ地下) [深草]和顔館(お弁当可?)
 * [図書館](https://library.ryukoku.ac.jp)=ナレッジコモンズ
 
 ### 学内でのオンライン授業参加
-* 開放される普通教室(Wi-Fiあり), 計算機実習室(セルフラーニング室)(Wi-Fi, 設置PCあり), その他自習できる場所どこでも参加可能. イヤフォン必須.
+* 開放される普通教室(Wi-Fiあり), [計算機実習室](#comproom) (セルフラーニング室)(Wi-Fi, 設置PCあり), その他自習できる場所どこでも参加可能. イヤフォン必須.
 * [計算機実習室](#comproom)の収容人数は十分でない可能性があるので, 個人のノートPCを持ってくる方が安心.
 * [瀬田]ライブで発話のある英語の授業で, 前後に対面授業があるものについては, まわりを気にせず大声でイヤフォン・マイクで発話できる, その授業の専用教室が割り当てられるそう.
 * 専用教室でなくても, イヤフォン・マイクを使えば静かに発話可能
