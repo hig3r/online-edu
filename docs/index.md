@@ -15,7 +15,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ## 登校
 
 ### 登校準備
-[投稿準備](Preparation.md)
+[登校準備](Preparation.md)
 
 * 教室位置チェック
     * 建物配置図 [大宮](https://www.ryukoku.ac.jp/about/campus_traffic/omiya.html)  [深草](https://www.ryukoku.ac.jp/about/campus_traffic/fukakusa.html) [瀬田](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)
@@ -117,6 +117,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * [学部教務課](https://www.ryukoku.ac.jp/reference/index2020.html)
 * [相談室](https://www.ryukoku.ac.jp/reference/index2020.html)
 * [先端理工] [学生間の情報共有チャネル](https://teams.microsoft.com/l/channel/19%3ad1ea28c6524141c2978260f718897db4%40thread.tacv2/%25E2%2598%2586%2520%25E5%25AD%25A6%25E7%2594%259F%25E9%2596%2593%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E5%2585%25B1%25E6%259C%2589?groupId=7c7d2b9f-b5be-4c3b-ac32-780426822d82&tenantId=23b65fdf-a4e3-4a19-b03d-12b1d57ad76e) 
+* [先端理工] [BYOD・PC相談窓口チャネル](https://teams.microsoft.com/l/channel/19%3a3afc3b5846b04c2abca8504ffc377c07%40thread.tacv2/%25E2%2598%2585%2520BYOD%25E3%2583%25BBPC%25E3%2582%25B5%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E7%25AA%2593%25E5%258F%25A3?groupId=7c7d2b9f-b5be-4c3b-ac32-780426822d82&tenantId=23b65fdf-a4e3-4a19-b03d-12b1d57ad76e)
 * [このページ作成者に質問](https://forms.gle/She8nMa7KcP6rmjD6) 個別の回答はしませんが, 質問に応じてこのページを補充します.
 
 ### 学習内容について相談できるところ
