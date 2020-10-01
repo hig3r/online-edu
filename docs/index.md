@@ -64,6 +64,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 
 ### Wi-Fi
 * [ru-wifi](http://wireless.ryukoku.ac.jp/) ID 学籍番号 b012345, 全学認証パスワード
+   * 接続できないとき, Win10 なら インターネットアクセス＞プロパティ＞設定（左上）＞既知のネットワークの管理 でru-wifiをいったん削除して再試行, で直ることもあるそう
 * [eduroam](https://wireless.ryukoku.ac.jp/) ID b012345@ryukoku.ac.jp (`mail' はない), 全学認証パスワード
    * 同じ電波を使ってるので混み方に差はない. eduroam はLINEが使える. 図書館DBや一部の学内限定ページが使えない.
 * [端末別手順説明](https://drive.google.com/drive/folders/1hyAB2hvzAsXBWu9B4pT1wlwPeldQOqK0) (Google Drive全学認証, 一般公開禁止)
