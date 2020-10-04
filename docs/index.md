@@ -1,5 +1,5 @@
 ---
-date: 2020-10-01 00:00:00
+date: 2020-10-05 00:00:00
 author: "Saburo Higuchi hig3r https://hig3.net"
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
@@ -75,6 +75,12 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * [瀬田] [昼休みに食事(お弁当)が可能な教室](https://twitter.com/notitia_ryukoku/status/1309002191231950848?s=12)
    * ほかの教室では禁止ってわけじゃないけど, これらの教室では, いきなり何かの臨時の説明会が始まって追い出されたりはしない.
 * [龍大生協](https://www.ryukoku-coop.com/)
+
+### コピー機
+* [瀬田] 生協食堂(タダコピ), 1号館5階エレベーターホール, 2号館1階, 4号館2階, 丸善書店, 図書館(図書館資料のみ)
+* カラーコピー [瀬田] ファミリーマート, 図書館(図書館資料のみ)
+* もちろん, 撮影したりスキャンしたりして, PC用プリンタから出力することはできる 
+  * [瀬田]カラープリンタは第1セルフラーニング室(3号館地下)
 
 ### 荷物保管
 * [先端理工] 個人指定ロッカー[^locker]
