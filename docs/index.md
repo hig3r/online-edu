@@ -62,7 +62,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * [瀬田]1号館各階, 7号館1階B1階スポット
 * [先端理工]専用情報実習室(1号館6階1-612,613)平日10:00-19:30
 
-### Wi-Fi
+### [Wi-Fi](#wifi)
 * [ru-wifi](http://wireless.ryukoku.ac.jp/) ID 学籍番号 b012345, 全学認証パスワード
    * [端末別手順説明](http://wireless.ryukoku.ac.jp/index.html#guide)
    * 全学認証パスワード変更後や接続できないとき, Win10 なら インターネットアクセス＞プロパティ＞設定（左上）＞既知のネットワークの管理 でru-wifiをいったん削除して再接続
