@@ -1,5 +1,5 @@
 ---
-date: 2020-10-05 00:00:00
+date: 2020-10-07 00:00:00
 author: "Saburo Higuchi hig3r https://hig3.net"
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
@@ -77,9 +77,10 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 * [龍大生協](https://www.ryukoku-coop.com/)
 
 ### コピー機
-* [瀬田] 生協食堂(タダコピ), 1号館5階エレベーターホール, 2号館1階, 4号館2階, 丸善書店, 図書館(図書館資料のみ)
-* カラーコピー [瀬田] ファミリーマート, 図書館(図書館資料のみ)
-* もちろん, 撮影したりスキャンしたりして, PC用プリンタから出力することはできる 
+* 生協でまずコピーカードを購入して使うタイプのものが多いが, コイン方式のもの(以下のc)もある
+* [瀬田] 1号館5階エレベーターホール, 学生交流会館1階, 2号館2階, 4号館2階, 丸善書店c, 図書館(図書館資料のみ), ファミリーマートc
+  * カラーコピー ファミリーマートc
+* もちろん, 撮影したりスキャンしたりして, [PC用プリンタ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/MainPage.aspx)から出力することはできる 
   * カラープリンタ [瀬田]第1セルフラーニング室(3号館地下) [先端理工] 1-612計算機実習室
 
 ### 荷物保管
