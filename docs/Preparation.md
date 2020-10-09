@@ -17,3 +17,9 @@
   * 学内でオンライン授業に参加する場合, 自分のノートPCとイヤフォン, マイクを持参すると便利.
   * 学生証, マスク, 充電.
 * [COCOAアプリ](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html)インストール
+* [自然災害時・交通機関不通時の授業等の取扱い](https://www.ryukoku.ac.jp/campus_career/support/classinfo/disaster.html)
+  * 授業の変更の通知 
+    * 大学ホームページ：　https://www.ryukoku.ac.jp/ 
+    * ポータルサイト：　https://portal.ryukoku.ac.jp 
+    * 公式Twitter 「龍谷大学（緊急連絡用）」：　https://twitter.com/Ryukoku_univ 
+    * 公式Facebook 「龍谷大学」：　https://www.facebook.com/RyukokuUniversity
