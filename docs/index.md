@@ -1,5 +1,5 @@
 ---
-date: 2020-10-12 12:00:00
+date: 2020-10-13 12:00:00
 author: "Saburo Higuchi hig3r https://hig3.net"
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
@@ -83,7 +83,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 
 ### コピー機
 * 生協でまずコピーカードを購入して使うタイプのものが多いが, コイン方式のもの(以下のc)もある
-* [瀬田] 1号館5階エレベーターホール, 学生交流会館1階, 2号館2階, 4号館2階c, 丸善書店c, 図書館(図書館資料のみ), ファミリーマートc
+* [瀬田] スチューデントコモンズ(生協コンビニ地下)4台，1号館5階エレベーターホール, 学生交流会館1階, 2号館2階, 4号館2階c, 丸善書店c, 図書館(図書館資料のみ), ファミリーマートc
   * カラーコピー ファミリーマートc
 * もちろん, 撮影したりスキャンしたりして, [PC用プリンタ](https://wprint.media.ryukoku.ac.jp/SendPrintJobWebApp/MainPage.aspx)から出力することはできる 
   * カラープリンタ [瀬田]第1セルフラーニング室(3号館地下) [先端理工] 1-612計算機実習室
