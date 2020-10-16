@@ -1,5 +1,5 @@
 ---
-date: 2020-10-13 12:00:00
+date: 2020-10-16 12:00:00
 author: "Saburo Higuchi hig3r https://hig3.net"
 image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 ---
@@ -23,8 +23,8 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
     * 建物配置図 [大宮](https://www.ryukoku.ac.jp/about/campus_traffic/omiya.html)  [深草](https://www.ryukoku.ac.jp/about/campus_traffic/fukakusa.html) [瀬田](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)
     * 建物内教室配置図 (PDF, Google Drive全学認証) [大宮](https://drive.google.com/file/d/1jiug1pmNfvBUrqziQ5q6EXTXSRaxMcop/view?usp=sharing) [深草](https://drive.google.com/file/d/15Eca3_PaC16_RDG2Jtw_yesDZ0UVK9IU/view?usp=sharing) [瀬田](https://drive.google.com/file/d/1Bzy0R84WEbQkMTDCeWSuWkka7T97IoHB/view?usp=sharing)
 * 教科書チェック [Webシラバス](https://www.google.com/url?q=https%3A%2F%2Fcapella.ws.ryukoku.ac.jp%2FRSW%2FCNoSSO.do&sa=D&sntz=1&usg=AFQjCNGmf45YIjufysABAbrIVMhpTuS4GA) 
-  * → [瀬田] [教科書注文](https://bit.ly/3jId1wb) → 宅配 or 受取([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)丸善)
-  * → [深草] [教科書注文](https://www.ryukoku-coop.com/new-comer/study/) (生協)
+  * [瀬田] [智光館丸善](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)
+  * [深草] [生協](https://www.ryukoku-coop.com/new-comer/study/)
 
 ### 登下校
 * [瀬田] [帝産バス](https://www.teisan-qr.com/) [中書島直通バス](https://www.media.ryukoku.ac.jp/seta/time-table/keihan.html) [大津駅直通バス](https://www.ryukoku.ac.jp/about/campus_traffic/traffic/bus_otsu_timetable.html)
