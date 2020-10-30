@@ -75,7 +75,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
    * 同じ電波を使ってるので混み方に差はない. eduroam はLINEが使える. 図書館DBや一部の学内限定ページが使えない.
 
 ### 昼食・コンビニ
-* 昼は食堂営業中. [瀬田] [時間](https://twitter.com/hig3_/status/1307264420326842369)
+* 昼は食堂営業中. [瀬田] [時間](https://twitter.com/hig3_/status/1321336448788819968)
 * コンビニ/自作お弁当持参歓迎. お弁当の販売あり [瀬田] 座れる場所あり.
 * [瀬田] [昼休みに食事(お弁当)が可能な教室](https://twitter.com/notitia_ryukoku/status/1309002191231950848?s=12)
    * ほかの教室では禁止ってわけじゃないけど, これらの教室では, いきなり何かの臨時の説明会が始まって追い出されたりはしない.
