@@ -9,6 +9,9 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 
 以下では, 主に[先端理工学部](https://www.rikou.ryukoku.ac.jp), [瀬田キャンパス](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html)について, [樋口](https://hig3.net) がまったく個人的にまとめてます. 無保証.
 
+## 2020年11月入構禁止
+[2020年11月入構禁止](Closure202011.md)
+
 ## 履修登録と時間割
 [履修登録と時間割](Registration.md)
 
