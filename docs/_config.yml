@@ -4,12 +4,10 @@ title: 龍谷大学2020年度後期の授業ポータル
 description: 龍谷大学2020年度後期の対面授業/オンライン授業/ハイブリッド授業 の個人的ポータル
 gems:
   - jekyll-seo-tag
-#markdown: redcarpet
-#redcarpet:
-#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-markdown: kramdown
-kramdown:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+  - rynku
+# markdown: kramdown
+# kramdown:
+#  extensions:
+#    - autolink
+#    - footnotes
+#    - smart
