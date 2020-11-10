@@ -2,12 +2,13 @@ theme: jekyll-theme-slate
 name:  龍谷大学2020年度後期授業
 title: 龍谷大学2020年度後期の授業ポータル
 description: 龍谷大学2020年度後期の対面授業/オンライン授業/ハイブリッド授業 の個人的ポータル
+markdown: GFM
 gems:
   - jekyll-seo-tag
-#  - rinku
 
-markdown:GFM
 
+# gems:
+#   - rinku
 # markdown: kramdown
 # kramdown:
 #  extensions:
