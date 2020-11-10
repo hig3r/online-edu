@@ -4,7 +4,10 @@ title: 龍谷大学2020年度後期の授業ポータル
 description: 龍谷大学2020年度後期の対面授業/オンライン授業/ハイブリッド授業 の個人的ポータル
 gems:
   - jekyll-seo-tag
-  - rinku
+#  - rinku
+
+markdown:GFM
+
 # markdown: kramdown
 # kramdown:
 #  extensions:
