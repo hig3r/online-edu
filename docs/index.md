@@ -30,7 +30,7 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
   * [深草] [生協](https://www.ryukoku-coop.com/new-comer/study/)
 
 ### 登下校
-* [瀬田] [帝産バス](https://www.teisan-qr.com/) [中書島直通バス](https://www.media.ryukoku.ac.jp/seta/time-table/keihan.html) [大津駅直通バス](https://www.ryukoku.ac.jp/about/campus_traffic/traffic/bus_otsu_timetable.html)
+* [瀬田] [帝産バス](https://www.teisan-qr.com/) [中書島直通バス](https://www.media.ryukoku.ac.jp/seta/time-table/keihan.html) [大津駅直通バス](https://www.ryukoku.ac.jp/about/campus_traffic/traffic/bus_otsu.html)
   * [瀬田]バス回数券は瀬田駅または生協コンビニ([智光館](https://www.ryukoku.ac.jp/about/campus_traffic/seta.html))
 * 登校時にリーダーに学生証タッチ. [瀬田]1,2,4,7,9号館他
 
