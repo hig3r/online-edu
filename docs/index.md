@@ -137,3 +137,6 @@ image: https://www.data.math.ryukoku.ac.jp/img/CAS1018_tartan_tile.png
 
 ### 学習内容について相談できるところ
 * [ライティングサポートセンター](https://www.ryukoku.ac.jp/writingsupport/), [先端理工] オフィスアワー[^officehour], [上級生によるチューター](https://www.rikou.ryukoku.ac.jp/students/data/students_support_2020.pdf)
+
+## 健康診断
+瀬田は2020-12-21,22,23に学部1年大学院1年だけ行われるそう. いまのところ2年生以上の計画はないのだと思います.
